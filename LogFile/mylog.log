@@ -1,0 +1,27 @@
+2022-03-29 13:19:17,721 [restartedMain] [36mc.t.a.Academy[0;39m - Starting Academy using Java 15.0.2 on DESKTOP-NJK7R17 with PID 16500 (F:\Dby-2.0-Self-Learning\academy-master\target\classes started by Dundappa in F:\Dby-2.0-Self-Learning\academy-master) 
+2022-03-29 13:19:17,728 [restartedMain] [36mc.t.a.Academy[0;39m - No active profile set, falling back to default profiles: default 
+2022-03-29 13:19:17,828 [restartedMain] [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2022-03-29 13:19:17,829 [restartedMain] [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2022-03-29 13:19:18,955 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2022-03-29 13:19:19,055 [restartedMain] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 86 ms. Found 5 JPA repository interfaces. 
+2022-03-29 13:19:20,027 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8085 (http) 
+2022-03-29 13:19:20,040 [restartedMain] [36mo.a.c.c.StandardService[0;39m - Starting service [Tomcat] 
+2022-03-29 13:19:20,041 [restartedMain] [36mo.a.c.c.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.55] 
+2022-03-29 13:19:20,179 [restartedMain] [36mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring embedded WebApplicationContext 
+2022-03-29 13:19:20,180 [restartedMain] [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 2349 ms 
+2022-03-29 13:19:20,400 [restartedMain] [36mo.h.j.i.u.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2022-03-29 13:19:20,477 [restartedMain] [36mo.h.Version[0;39m - HHH000412: Hibernate ORM core version 5.6.1.Final 
+2022-03-29 13:19:20,729 [restartedMain] [36mo.h.a.c.Version[0;39m - HCANN000001: Hibernate Commons Annotations {5.1.2.Final} 
+2022-03-29 13:19:20,882 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Starting... 
+2022-03-29 13:19:21,382 [restartedMain] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Start completed. 
+2022-03-29 13:19:21,472 [restartedMain] [36mo.h.d.Dialect[0;39m - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect 
+2022-03-29 13:19:24,763 [restartedMain] [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2022-03-29 13:19:24,789 [restartedMain] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2022-03-29 13:19:25,651 [restartedMain] [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2022-03-29 13:19:26,140 [restartedMain] [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - LiveReload server is running on port 35729 
+2022-03-29 13:19:26,246 [restartedMain] [36mo.s.b.w.e.t.TomcatWebServer[0;39m - Tomcat started on port(s): 8085 (http) with context path '' 
+2022-03-29 13:19:26,263 [restartedMain] [36mc.t.a.Academy[0;39m - Started Academy in 9.157 seconds (JVM running for 10.888) 
+2022-03-29 14:04:01,786 [HikariPool-1 housekeeper] [36mc.z.h.p.HikariPool[0;39m - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m39s842ms269µs600ns). 
+2022-03-29 16:26:35,325 [HikariPool-1 housekeeper] [36mc.z.h.p.HikariPool[0;39m - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m31s638ms912µs200ns). 
+2022-03-29 17:47:20,174 [HikariPool-1 housekeeper] [36mc.z.h.p.HikariPool[0;39m - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m43s700ms109µs300ns). 
+2022-03-29 18:52:16,160 [HikariPool-1 housekeeper] [36mc.z.h.p.HikariPool[0;39m - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m25s469ms589µs200ns). 

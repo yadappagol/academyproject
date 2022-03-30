@@ -25,3 +25,7 @@
 2022-03-29 16:26:35,325 [HikariPool-1 housekeeper] [36mc.z.h.p.HikariPool[0;39m - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m31s638ms912µs200ns). 
 2022-03-29 17:47:20,174 [HikariPool-1 housekeeper] [36mc.z.h.p.HikariPool[0;39m - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m43s700ms109µs300ns). 
 2022-03-29 18:52:16,160 [HikariPool-1 housekeeper] [36mc.z.h.p.HikariPool[0;39m - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m25s469ms589µs200ns). 
+2022-03-29 20:48:47,672 [RMI TCP Connection(403)-127.0.0.1] [36mo.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin[0;39m - Application shutdown requested. 
+2022-03-29 20:48:50,008 [RMI TCP Connection(403)-127.0.0.1] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default' 
+2022-03-29 20:48:50,550 [RMI TCP Connection(403)-127.0.0.1] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Shutdown initiated... 
+2022-03-29 20:48:50,601 [RMI TCP Connection(403)-127.0.0.1] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Shutdown completed. 
